@@ -1,3 +1,0 @@
-/home/tom/dev/SoftEngine/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate.dir
-/home/tom/dev/SoftEngine/build/_deps/glfw-subbuild/CMakeFiles/edit_cache.dir
-/home/tom/dev/SoftEngine/build/_deps/glfw-subbuild/CMakeFiles/rebuild_cache.dir
