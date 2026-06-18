@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/tom/dev/SoftEngine/build/cmake_install.cmake",
+		"/home/tom/dev/SoftEngine/build/_deps/nlohmann_json-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,1 @@
+/run/current-system/sw/bin/c++ -fPIC -Wl,--dependency-file=CMakeFiles/SoftEngine.dir/link.d -shared -Wl,-soname,libSoftEngine.so -o libSoftEngine.so CMakeFiles/SoftEngine.dir/Engine/src/Application.cpp.o CMakeFiles/SoftEngine.dir/Engine/src/Window.cpp.o

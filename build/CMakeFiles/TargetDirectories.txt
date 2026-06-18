@@ -1,0 +1,5 @@
+/home/tom/dev/SoftEngine/build/CMakeFiles/SoftEngine.dir
+/home/tom/dev/SoftEngine/build/CMakeFiles/edit_cache.dir
+/home/tom/dev/SoftEngine/build/CMakeFiles/rebuild_cache.dir
+/home/tom/dev/SoftEngine/build/_deps/nlohmann_json-build/CMakeFiles/edit_cache.dir
+/home/tom/dev/SoftEngine/build/_deps/nlohmann_json-build/CMakeFiles/rebuild_cache.dir
